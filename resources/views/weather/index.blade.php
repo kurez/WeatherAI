@@ -354,7 +354,7 @@
                     <p class="muted mb-0">
                         {{ $geo['city'] ?? $city }},
                         {{ $geo['region'] ?? 'Region unavailable' }}
-                        {{ isset($geo['country']) ? '¡¤ ' . $geo['country'] : '' }}
+                        {{ isset($geo['country']) ? ' - ' . $geo['country'] : '' }}
                     </p>
                 </div>
 
