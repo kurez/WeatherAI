@@ -253,7 +253,7 @@
         </div>
 
         <div class="col-lg-5">
-            <form method="POST" action="{{ route('weather.search') }}" class="glass p-4">
+            <form method="POST" action="{{ secure_url(route('weather.search', [], false)) }}" class="glass p-4">
                 @csrf
 
                 <h2 class="h4 fw-bold text-white mb-1">Weather Impact Analysis</h2>
@@ -354,7 +354,7 @@
                     <p class="muted mb-0">
                         {{ $geo['city'] ?? $city }},
                         {{ $geo['region'] ?? 'Region unavailable' }}
-                        {{ isset($geo['country']) ? '¡¤ ' . $geo['country'] : '' }}
+                        {{ isset($geo['country']) ? 'Â¡Â¤ ' . $geo['country'] : '' }}
                     </p>
                 </div>
 
