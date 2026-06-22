@@ -1,8 +1,18 @@
 # Impact Dashboard
 
-AI-powered weather impact analysis platform built with Laravel and the WeatherAI API.
+![Laravel](https://img.shields.io/badge/Laravel-12-red)
+![PHP](https://img.shields.io/badge/PHP-8.2+-777BB4)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-5-7952B3)
+![WeatherAI](https://img.shields.io/badge/API-WeatherAI-00BFFF)
+![Deployment](https://img.shields.io/badge/Deployment-Render-46E3B7)
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge)](https://weatherai-ghro.onrender.com)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/kurez/WeatherAI)
+
+AI-powered weather impact analysis platform that transforms weather forecasts into actionable insights through activity-specific risk scoring, AI-powered recommendations, and intelligent forecasting.
 
 The dashboard transforms weather forecasts into actionable insights by combining real-time weather intelligence, activity-specific risk scoring, hourly forecasting, and AI-generated recommendations to help users make smarter decisions.
+
 
 ## Features
 
