@@ -38,42 +38,6 @@ The dashboard transforms weather forecasts into actionable insights by combining
 * MySQL
 * Vite
 
-## Screenshots
-
-### Dashboard
-
-The landing page provides a premium weather intelligence experience with town selection, activity-based analysis, and AI-powered recommendations.
-
-```md
-![Dashboard](screenshots/dashboard.png)
-```
-
-### Weather Analysis
-
-Risk scoring and weather impact insights generated from real-time WeatherAI data.
-
-```md
-<img width="1920" height="1029" alt="image" src="https://github.com/user-attachments/assets/6d742671-649e-4d05-92db-c04b2701ba69" />
-
-```
-
-### Hourly Forecast
-
-Detailed hourly weather trends including temperature, precipitation probability, wind speed, and UV index.
-
-```md
-![Hourly Forecast](screenshots/hourly-forecast.png)
-```
-
-### Daily Forecast
-
-Multi-day forecast view showing weather conditions, temperature ranges, and precipitation outlook.
-
-```md
-![Daily Forecast](screenshots/daily-forecast.png)
-```
-
-
 ## Installation
 
 Clone the repository:
